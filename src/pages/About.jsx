@@ -10,11 +10,7 @@ function About() {
           {' '}
           React Front To Back
         </a>{' '}
-        Udemy course by
-        <strong>
-          <a href='https://traversymedia.com'> Brad Traversy</a>
-        </strong>
-        .
+
       </p>
       <p className='text-lg text-gray-400'>
         Version <span className='text-white'>1.0.0</span>
